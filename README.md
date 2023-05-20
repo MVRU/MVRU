@@ -1,4 +1,10 @@
-### Hi there 👋
+## Marina Milo — @MVRU
+
+Hi, I'm Maru —an information systems engeeniering student in Argentina! 🧉
+
+### Get in touch
+- LinkedIn: https://www.linkedin.com/in/marinamilo/
+- Telegram: https://t.me/maru51
 
 <!--
 **MVRU/MVRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
