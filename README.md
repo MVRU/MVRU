@@ -1,6 +1,6 @@
 # Marina Milo — @MVRU 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, world! I'm Maru —an ```information systems engineering``` student in Argentina! 🧉
+### <img src="https://github.com/MVRU/MVRU/blob/67b61b905c963ac5f2e013cd330c1c9a172aa2d3/Hi.gif" width="29px"> Hello, world! I'm Maru —an ```information systems engineering``` student in Argentina! 🧉
 
 ```javascript
 const mvru = {
