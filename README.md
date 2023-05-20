@@ -1,6 +1,6 @@
-## Marina Milo — @MVRU 
+# Marina Milo — @MVRU 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, world! I'm Maru —an information systems engineering student in Argentina! 🧉
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, world! I'm Maru —an ```information systems engineering``` student in Argentina! 🧉
 
 ```javascript
 const mvru = {
@@ -10,9 +10,14 @@ const mvru = {
 }
 ```
 
-### Get in touch
-- LinkedIn: https://www.linkedin.com/in/marinamilo/
-- Telegram: https://t.me/maru51
+## ☁️ My Dream
+As an aspiring ```IT Engineer```, my dream is to roam the globe 🌎, exploring every corner while leaving a trail of code in my wake. From enjoying a cup of "**java**" in Java (_yes, the irony! ☕️_) to coding amidst the grandeur of the Eiffel Tower, I'm on a mission to embrace the world's marvels with my computer as my partner in crime. ✨
+
+> 🤖 Let's code the world fabulous byte by byte!
+
+## 📫 Contact Me
+- **LinkedIn:** https://www.linkedin.com/in/marinamilo/
+- **Telegram:** https://t.me/maru51
 
 <!--
 **MVRU/MVRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
