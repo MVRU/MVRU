@@ -5,8 +5,8 @@
 ```javascript
 const mvru = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [VSCode, Git]
+  code: [Javascript, HTML, CSS, Python, Java, SQL],
+  tools: [VSCode, Git, IBM Rational, Notion]
 }
 ```
 
