@@ -15,11 +15,10 @@ const mvru = {
 As an aspiring ```IT Engineer```, my dream is to roam the globe 🌎, exploring every corner while leaving a trail of code in my wake. From enjoying a cup of "**java**" in Java (_yes, the irony! ☕️_) to coding amidst the grandeur of the Eiffel Tower, I'm on a mission to embrace the world's marvels with my computer as my partner in crime. ✨
 
 > 🤖 Let's code the world fabulous byte by byte!
+<a href="https://www.linkedin.com/in/marinamilo/" target="blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="rishav-chanda-b89a791b3" height="40" width="40" />
+</a><a href="https://t.me/marumilo" target="blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" alt="rishav-chanda-b89a791b3" height="40" width="40" /></a>
+<a href="https://discord.com/users/mvru." target="blank"><img align="right" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="rishav-chanda-b89a791b3" height="40" /></a>
 
-
-## 📫 Contact Me
-- **LinkedIn:** https://www.linkedin.com/in/marinamilo/
-- **Telegram:** https://t.me/marumilo
 
 <!--
 **MVRU/MVRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
