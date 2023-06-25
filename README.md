@@ -17,7 +17,7 @@ As an aspiring ```IT Engineer```, my dream is to roam the globe 🌎, exploring 
 
 ## 📫 Contact Me
 - **LinkedIn:** https://www.linkedin.com/in/marinamilo/
-- **Telegram:** https://t.me/maru51
+- **Telegram:** https://t.me/marumilo
 
 <!--
 **MVRU/MVRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
