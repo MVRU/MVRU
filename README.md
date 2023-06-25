@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MVRU/MVRU/blob/ad8c83a855a0ad03c7a5fb1bbb8760eb3eecde03/assets/pexels-aron-visuals-1743165.jpg)](https://rishavchanda.io)
+[![MasterHead](https://github.com/MVRU/MVRU/blob/21e15929782981be7e088285e6ae9808389b5bc9/assets/pexels-jaime-reimer-2662116.jpg)](https://rishavchanda.io)
 <h1 align="center">Marina Milo — @MVRU</h1>
 
 ### <img src="https://github.com/MVRU/MVRU/blob/41eaf9f2b9f408ab8a974ef5f7a01814e2530892/assets/Hi.gif" width="26px"> Hello, world! I'm Maru —an ```information systems engineering``` student in Argentina! 🧉
@@ -15,6 +15,7 @@ const mvru = {
 As an aspiring ```IT Engineer```, my dream is to roam the globe 🌎, exploring every corner while leaving a trail of code in my wake. From enjoying a cup of "**java**" in Java (_yes, the irony! ☕️_) to coding amidst the grandeur of the Eiffel Tower, I'm on a mission to embrace the world's marvels with my computer as my partner in crime. ✨
 
 > 🤖 Let's code the world fabulous byte by byte!
+
 
 ## 📫 Contact Me
 - **LinkedIn:** https://www.linkedin.com/in/marinamilo/
