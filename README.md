@@ -16,7 +16,11 @@ const mvru = {
 I remember when I was a child 👧🏼, my mom always asked me why I liked them so much. Back then, it wasn't very common for a little girl to spend the whole day in front of an old monitor. **"_Because with computers, nothing is impossible_,"** those words stayed with her for life.
 
 Now, as an aspiring ```Information Systems Engineer```, my dream is to roam the globe 🌎, exploring every corner while leaving a trail of code in my wake. From enjoying a cup of "**java**" in Java (_yes, the irony! ☕️_) to coding amidst the grandeur of the Eiffel Tower, I'm on a mission to embrace the world's marvels with my computer as my partner in crime. ✨ </details>
-
+<!--<details>
+ <summary><h2>🎯 Projects</h2></summary>
+ ...
+ </details>
+-->
 > 🤖 Let's code the world fabulous byte by byte!
 <a href="https://www.linkedin.com/in/marinamilo/" target="blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="rishav-chanda-b89a791b3" height="40" width="40" />
 </a><a href="https://t.me/marumilo" target="blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" alt="rishav-chanda-b89a791b3" height="40" width="40" /></a>
