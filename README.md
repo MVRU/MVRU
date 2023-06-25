@@ -1,5 +1,5 @@
-[![MasterHead](https://github.com/MVRU/MVRU/blob/70dc2b28f36915b8d81effdadaf6a797a1b12f6d/assets/pexels-kevin-ku-577585.jpg)](https://rishavchanda.io)
-# Marina Milo — @MVRU 
+[![MasterHead](https://github.com/MVRU/MVRU/blob/ad8c83a855a0ad03c7a5fb1bbb8760eb3eecde03/assets/pexels-aron-visuals-1743165.jpg)](https://rishavchanda.io)
+<h1 align="center">Marina Milo — @MVRU</h1>
 
 ### <img src="https://github.com/MVRU/MVRU/blob/41eaf9f2b9f408ab8a974ef5f7a01814e2530892/assets/Hi.gif" width="26px"> Hello, world! I'm Maru —an ```information systems engineering``` student in Argentina! 🧉
 
