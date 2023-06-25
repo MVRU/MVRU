@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MVRU/MVRU/blob/21e15929782981be7e088285e6ae9808389b5bc9/assets/pexels-jaime-reimer-2662116.jpg)](https://rishavchanda.io)
+[![MasterHead](https://github.com/MVRU/MVRU/blob/6c0a813eb3844151df5c8db7957839add9b3bbf4/assets/pexels-jaime-reimer-2662116.png)](https://www.pexels.com/es-es/foto/hermosa-vista-del-lago-moraine-2662116/)
 <h1 align="center">Marina Milo — @MVRU</h1>
 
 ### <img src="https://github.com/MVRU/MVRU/blob/41eaf9f2b9f408ab8a974ef5f7a01814e2530892/assets/Hi.gif" width="26px"> Hello, world! I'm Maru —an ```information systems engineering``` student in Argentina! 🧉
