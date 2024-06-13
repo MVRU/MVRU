@@ -6,11 +6,11 @@
 ```javascript
 const mvru = {
   pronouns: "she" | "her",
-  code: ["Javascript", "Python", "Java", "C#"],
-  databases: ["SQL", "MongoDB"],
-  tools: ["VSCode", "VS", "Git", "IBM Rational", "Notion", "Figma", "Adobe Suite"],
-  frameworks: ["Angular", "Node.js", ".NET"],
-  interests: ["data analysis", "web development", "graphic design", "prototyping"]
+  code: [Javascript, Python, Java, C#],
+  databases: [SQL, MongoDB],
+  tools: [VSCode, VS, Git, IBM Rational, Notion, Figma, Adobe Suite],
+  frameworks: [Angular, Node.js, .NET],
+  interests: [data analysis, web development, graphic design, prototyping]
 }
 ```
 <details>
