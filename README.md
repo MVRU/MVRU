@@ -82,11 +82,12 @@ Across academic and freelance projects, I help teams grow through clean document
 
 <div align="center">
 
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MVRU&theme=tokyonight)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MVRU&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MVRU&theme=tokyonight&hide_border=true" />
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MVRU&theme=tokyonight)
+
 
 </div>
 
