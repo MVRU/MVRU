@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MVRU/MVRU/blob/main/assets/pexels-jaime-reimer-2662116.png?raw=true)](https://www.pexels.com/es-es/foto/hermosa-vista-del-lago-moraine-2662116/)
+![MasterHead](https://github.com/MVRU/MVRU/blob/main/assets/cover.png)
 
 <h1 align="center">Marina Milo — @MVRU</h1>
 
