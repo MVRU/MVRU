@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi, I'm Marina Milo</h1>
 
-I'm a software engineer and Information Systems Engineering student at UTN FRRo, based in Argentina. I build end-to-end software for domains where reliability, traceability, and clear decisions matter.
+I'm a Software Engineer and Information Systems Engineering student at UTN FRRo, based in Argentina. I build end-to-end software for domains where reliability, traceability, and clear decisions matter.
 
-Right now, I work on private systems for labor and social-security LegalTech and union management. I can't share their code or clients, but they shape how I approach data models, access control, testing, and long-term maintenance.
+Right now, I work on private systems for labor and social-security Legaltech and union management. I can't share their code or clients, but they shape how I approach data models, access control, testing, and long-term maintenance.
 
 🧉 My Final Degree Project, Conectando Corazones, is complete. I'm now shaping a focused research direction around AI alongside my engineering work.
 
@@ -26,12 +26,12 @@ I'm starting to shape a research direction around AI: how systems behave in prac
 
 ### Private systems
 
-- **Laboralia** *(private)* — A LegalTech platform for lawyers and law students working with Argentine labor and social-security law. It brings together a legal library, calculators, AI-assisted document workflows, RAG, semantic search, and workflow automation.
+- **Laboralia** *(private)* — A Legaltech platform for lawyers and law students working with Argentine labor and social-security law. It brings together a legal library, calculators, AI-assisted document workflows, RAG, semantic search, and workflow automation.
 - **SIGA** *(private)* — An end-to-end management system for a union association, covering members and family groups, collective bargaining agreements, documents, benefits, finances, and representation workflows.
 
 ### Public work
 
-- [`Conectando-Corazones`](https://github.com/MVRU/Conectando-Corazones) — My completed Final Degree Project: a team-built SvelteKit platform that connects organizations seeking support with people and organizations ready to help, including Gemini-powered text generation.
+- [`Conectando-Corazones`](https://github.com/MVRU/Conectando-Corazones) — My completed final degree project: a team-built SvelteKit platform that connects organizations seeking support with people and organizations ready to help, including Gemini-powered text generation.
 - [`llm-abstention-evals`](https://github.com/MVRU/llm-abstention-evals) — A reproducible benchmark for evaluating abstention in structured-output LLM classifiers.
 - [`AnkiHUD`](https://github.com/MVRU/AnkiHUD) — An open-source Python add-on that makes Anki learning progress easier to read at a glance.
 - [`focus-mode-pro`](https://github.com/MVRU/focus-mode-pro) — An Obsidian plugin for distraction-free writing and keyboard-first navigation.
