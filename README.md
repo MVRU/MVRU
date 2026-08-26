@@ -26,7 +26,7 @@ I'm starting to shape a research direction around AI: how systems behave in prac
 
 ### Private systems
 
-- **Laboralia** *(private)* — A Legaltech platform for lawyers and law students working with Argentine labor and social-security law. It brings together a legal library, calculators, AI-assisted document workflows, RAG, semantic search, and workflow automation.
+- **Laboralia** *(private system; [public technical case study](https://github.com/MVRU/laboralia-case-study))* — A Legaltech platform for lawyers and law students working with Argentine labor and social-security law. It brings together a legal library, calculators, AI-assisted document workflows, RAG, semantic search, and workflow automation.
 - **SIGA** *(private)* — An end-to-end management system for a union association, covering members and family groups, collective bargaining agreements, documents, benefits, finances, and representation workflows.
 
 ### Public work
