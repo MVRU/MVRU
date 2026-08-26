@@ -1,4 +1,4 @@
-![Abstract technical diagram in Tokyo Night colors, with structured nodes and geometric layers framing open space](https://raw.githubusercontent.com/MVRU/MVRU/main/assets/cover-v4.png)
+![Illustrated futuristic cityscape in blue, cyan, violet, and magenta](https://raw.githubusercontent.com/MVRU/MVRU/main/assets/cover.png)
 
 <h1 align="center">Hi, I'm Marina Milo</h1>
 
