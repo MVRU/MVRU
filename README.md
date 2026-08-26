@@ -6,7 +6,7 @@ I'm a Software Engineer and Information Systems Engineering student at UTN FRRo,
 
 Right now, I work on private systems for labor and social-security Legaltech and union management. I can't share their code or clients, but they shape how I approach data models, access control, testing, and long-term maintenance.
 
-🧉 My Final Degree Project, Conectando Corazones, is complete. I'm now shaping a focused research direction around AI alongside my engineering work.
+🧉 My final degree project, Conectando Corazones, is complete. I'm now shaping a focused research direction around AI alongside my engineering work.
 
 ## Current focus
 
@@ -26,7 +26,7 @@ I'm starting to shape a research direction around AI: how systems behave in prac
 
 ### Private systems
 
-- **Laboralia** *(private system; [public technical case study](https://github.com/MVRU/laboralia-case-study))* — A Legaltech platform for lawyers and law students working with Argentine labor and social-security law. It brings together a legal library, calculators, AI-assisted document workflows, RAG, semantic search, and workflow automation.
+- [`Laboralia`](https://github.com/MVRU/laboralia-case-study) *(private)* — A Legaltech platform for lawyers and law students working with Argentine labor and social-security law. It brings together a legal library, calculators, AI-assisted document workflows, RAG, semantic search, and workflow automation.
 - **SIGA** *(private)* — An end-to-end management system for a union association, covering members and family groups, collective bargaining agreements, documents, benefits, finances, and representation workflows.
 
 ### Public work
@@ -38,6 +38,4 @@ I'm starting to shape a research direction around AI: how systems behave in prac
 
 ## Interests
 
-AI research, reliable software systems, and the ethical, safe use of AI in regulated domains.
-
-[LinkedIn](https://www.linkedin.com/in/marinamilo/)
+🤍 AI research, reliable software systems, and the ethical, safe use of AI in regulated domains.
